@@ -213,7 +213,6 @@ svg{
     }
     .blur{
         transform: rotate(3deg);
-        width: 80%;
         gap: 10px;
     }
     .wrap-main-banner-content{
